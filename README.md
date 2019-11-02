@@ -1,7 +1,7 @@
 # roboteq_diff_driver
 
 ROS driver for the Roboteq HBL2360A of motor controllers in a differential-drive configuration.
-However it can also aply to the other Blushless Roboteq driver.
+I guess it can also aply to the other Blushless Roboteq driver.
 But it needs to find the proper PID parameter of each motors.
 
 Subscribes to cmd_vel, publishes to odom, and broadcasts odom tf.
