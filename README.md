@@ -21,6 +21,11 @@ sudo apt-get install ros-<dist>-serial
 
 Sample launch files in roboteq_diff_driver/launch.
 
+## Authors
+
+* **Chad Attermann** - *Initial work* - [Ecos Technologies](https://github.com/ecostech)
+* **Tadadshi Imokawa** * editted for HBL2360A blushless motor driver*  
+
 ## License
 
 This project is licensed under the BSD License.
