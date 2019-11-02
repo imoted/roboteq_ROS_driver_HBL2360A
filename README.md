@@ -21,17 +21,6 @@ sudo apt-get install ros-<dist>-serial
 
 Sample launch files in roboteq_diff_driver/launch.
 
-## TODO
-
-- [x] Make topic names and frames configuration parameters configurable at runtime.
-- [x] Make robot configuration parameters configurable at runtime.
-- [x] Make motor controller device configuration parameters configurable at runtime.
-- [ ] Make miscellaneous motor controller configuration parameters configurable at runtime.
-
-## Authors
-
-* **Chad Attermann** - *Initial work* - [Ecos Technologies](https://github.com/ecostech)
-
 ## License
 
 This project is licensed under the BSD License.
