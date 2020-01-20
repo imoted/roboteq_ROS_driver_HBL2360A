@@ -1,5 +1,3 @@
-// "Copyright [2019] <Copyright imoted tad.imokawa@gmail.com>"
-
 #include <geometry_msgs/Quaternion.h>
 #include <geometry_msgs/TransformStamped.h>
 #include <ros/console.h>
